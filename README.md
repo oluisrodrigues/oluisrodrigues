@@ -1,6 +1,7 @@
 ### Oii! Eu sou o Luis Rodrigues 🤙
 
 - 🦉 Atualmente estudando para melhorar e inovar as minhas habilidades 
+- 😉 Pronouns : Ele/Dele
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oluisrodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
